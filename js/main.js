@@ -1,4 +1,4 @@
-        // loader 
+// loader 
       $(window).load(function() { // makes sure the whole site is loaded
       $('#status').fadeOut(); // will first fade out the loading animation
       $('#preloader').delay(350).fadeOut('slow'); // will fade out the white DIV that covers the website.
@@ -137,16 +137,6 @@
 
       ];
 
-      // $(document).ready(function(){
-
-      //   $("#skillset").skillset({
-
-      //     object:object,
-      //     duration:40
-
-      //   });
-
-      // });
 
 
         // Owl carousel
