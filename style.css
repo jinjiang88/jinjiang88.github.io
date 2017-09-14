@@ -874,11 +874,8 @@ scroll {  0% {
 .skill_text{
   text-align: left;
 }
-.skill_icon li{
-    display: inline;
-    margin-left: 15px;
-}
-.skill_icon li img{
+.skill_icon img{
+  margin-left: 15px;
   width: 150px;
   height: 150px;
   display: inline;
