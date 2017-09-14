@@ -878,7 +878,7 @@ scroll {  0% {
     display: inline;
     margin-left: 15px;
 }
-.skill_icon img{
+.skill_icon li img{
   width: 150px;
   height: 150px;
   display: inline;
