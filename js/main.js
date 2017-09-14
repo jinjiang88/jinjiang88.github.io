@@ -137,16 +137,16 @@
 
       ];
 
-      $(document).ready(function(){
+      // $(document).ready(function(){
 
-        $("#skillset").skillset({
+      //   $("#skillset").skillset({
 
-          object:object,
-          duration:40
+      //     object:object,
+      //     duration:40
 
-        });
+      //   });
 
-      });
+      // });
 
 
         // Owl carousel
